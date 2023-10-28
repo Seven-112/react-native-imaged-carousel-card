@@ -80,10 +80,6 @@ import ImagedCarouselCard from "react-native-imaged-carousel-card";
 - [ ] Typescript Challenge!
 - [ ] Write an article about the lib on Medium
 
-## Author
-
-FreakyCoder, kurayogun@gmail.com
-
 ## License
 
 React Native Imaged Carousel Card is available under the MIT license. See the LICENSE file for more info.
